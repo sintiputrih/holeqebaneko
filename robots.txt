@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://holeqebaneko.pages.dev/sitemap.xml
